@@ -7,6 +7,10 @@
 
 // 04. uncontrolled element: useRef() to creat a referane to the element and access valur by using like: nameRef.current.value
 
-// 05. 
+// 05. use hook to handle states and submit and error, exapmles
+
+// 06.Reusable component...
+
+
 
 
